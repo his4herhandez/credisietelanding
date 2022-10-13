@@ -1,0 +1,23 @@
+{
+  "name": "credisietelanding",
+  "version": "1.0.0",
+  "description": "Sistema de administracion credi7.com.mx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/his4herhandez/credisietelanding.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/his4herhandez/credisietelanding/issues"
+  },
+  "homepage": "https://github.com/his4herhandez/credisietelanding#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}
