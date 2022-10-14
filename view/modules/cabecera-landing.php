@@ -3,7 +3,7 @@
         <span class="fw-semibold">credi</span><label class="fw-bold">7</label>
     </div>
     <div div="d-flex align-items-center">
-        <ul class="nav">
+        <ul class="nav flex-column align-items-center">
             <li class="nav-item">
                 <a class="header_navegacion fw-bold nav-link text-decoration-none" href="inicio">inicio</a>
             </li>
