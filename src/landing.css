@@ -7,12 +7,18 @@
 html,
 body {
     font-family: 'Nunito', Nunito;
-    background-color: #f3f3f3;
+    background-color: #e9e9e9;
 }
 
 #header {
-    background-color: #f8fafc;
-    box-shadow: 5px 5px 20px rgba(235, 235, 235, 0.8);
+    background-color: #f3f3f3;
+    box-shadow: 5px 5px 20px rgba(205, 205, 205, 0.4);
+}
+
+
+#footer {
+    background-color: #f3f3f3;
+    box-shadow: 5px 5px 20px rgba(205, 205, 205, 0.4);
 }
 /* Móviles en horizontal o tablets en vertical
    ------------------------------------------------------------------------- */
@@ -61,11 +67,22 @@ body {
     color: #0080BB;
     text-transform: uppercase;
 }
-/*  
+
+.footer_navegacion {
+    font-size: .8rem;
+    color: #0080BB;
+    text-transform: uppercase;
+}
+
+
+ 
 #footer {
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.8);
+    height: 4rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    box-shadow: 5px 5px 30px rgba(205, 205, 205, 0.8);
     width: 100%;
     position: absolute;                 
     bottom: 0;                         
     right: 0; 
-} */
+}

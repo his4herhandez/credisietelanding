@@ -15,6 +15,11 @@
         transition: ease-in-out 0.25s;
     }
 
+    .footer_navegacion:hover {
+        color: #FFE000;
+        transition: ease-in-out 0.25s;
+    }
+
 </style>
 <body>
     <?php 
