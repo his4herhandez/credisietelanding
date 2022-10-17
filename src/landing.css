@@ -11,13 +11,11 @@ body {
 }
 
 #header {
-    background-color: #F1F5F9;
     box-shadow: 5px 5px 20px rgba(205, 205, 205, 0.4);
 }
 
 
 #footer {
-    background-color: #F1F5F9;
     box-shadow: 5px 5px 20px rgba(205, 205, 205, 0.4);
 }
 /* Móviles en horizontal o tablets en vertical
@@ -50,22 +48,18 @@ body {
     }
 }
 
-#header_logo span{
-    font-size: 2.2rem;
-    padding-top: 10px;
+.header_logo span{
     font-family: 'Nunito', Nunito;
     color: #0080BB;
 }
 
-#header_logo label{
+.header_logo label{
     font-family: 'Nunito', Nunito;
-    font-size: 3rem;
     color: #0080BB;
 }
 
 .header_navegacion {
     color: #0080BB;
-    text-transform: uppercase;
 }
 
 .footer_navegacion {

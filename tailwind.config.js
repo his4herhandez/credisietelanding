@@ -2,14 +2,14 @@
 module.exports = {
   content: [
     "./view/*/*.php",
-    "./view/*.php",
+    "./view/*.php",,
     "./src/*/*.js"
   ],
   theme: {
     extend: {
       colors: {
         'negro': '#252422',
-        'azul': '#47C5FF',
+        'azul': '#0080BB;',
         'blanco': '#f1faee',
         'rojo': '#e63946'
       }

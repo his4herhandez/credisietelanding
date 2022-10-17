@@ -11,3 +11,4 @@ require_once 'model/conexion.php';
 require_once 'model/login-admin.model.php';
 
 $plantilla = new Plantilla();
+$plantilla -> plantilla();

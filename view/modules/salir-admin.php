@@ -4,6 +4,6 @@ session_destroy();
 
 echo '<script>
 	
-	window.location= "index.php";
+	window.location= "inicio";
 
 </script>';

@@ -24,7 +24,7 @@ class Login
 
                         echo '
                         <script>
-                            window.location = "inicio-admin"
+                            window.location = "inicio"
                         </script>';
                     } else {
 
